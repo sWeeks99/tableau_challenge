@@ -6,6 +6,6 @@ This respository was made due to complications regarding Tableau Public upload, 
 
 Within the main Tableau workbook, contains between 4-10 total visualizations, a map (additionally two duplicates of the map set to different filters used for the story), dashboards, story, and analysis.
 
--simplemaps, used their US zip codes database to convert longitude and latitude values to zip codes via Python.
+-[simplemaps](https://simplemaps.com/data/us-zips), used their US zip codes database to convert longitude and latitude values to zip codes via Python.
 
 -XPert Learning Assistant, used to review and double-check the code as needed.
