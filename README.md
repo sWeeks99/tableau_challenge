@@ -1,5 +1,5 @@
 # tableau_challenge
-EDIT [9:00am]: I discovered the workbook was not updated with analysis and other visuals, directory is now final.
+EDIT [08/07, 9:00am]: I discovered the workbook was not updated with analysis and other visuals, directory is now final.
 
 My name is Sean Weeks, this is my submission repository for the Module 18 Challenge
 
